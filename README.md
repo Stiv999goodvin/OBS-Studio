@@ -45,4 +45,4 @@ The 5.x server is a typical WebSocket server running by default on port 4455 (th
 
 We'd like to know what you're building with obs-websocket! If you do something in this fashion, feel free to drop a message in in the discord server!#project-showoff
 
-Contributors
+
